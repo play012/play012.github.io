@@ -1,1 +1,0 @@
-![GitHub Logo](/favicon.ico)
